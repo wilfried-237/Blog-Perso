@@ -1,3 +1,9 @@
-# Blog-Perso is fully functional multi-user blog website giving the ability to the admin to create, edit, update and delete posts post and the different users
+# How to preview?
+- Install wamp server or xammp launch app
+- Open phpmyadmin and create database called "wilsweb_blogperso"
+- import database to new database created(you can find it at the root of the site)
+- Copy site folder to www folder if using wamp or in htdocs if using xammp
+- Head to your browser and type: localhost/Blog-Perso
+- Credentials to admin dashboard are login: admin and Password: admin 
 
-- data base name is "wilsweb_blogperso" you can find it at the root of the site
+ 
