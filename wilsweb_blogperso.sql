@@ -57,7 +57,7 @@ CREATE TABLE `messages` (
   `id` int(11) NOT NULL,
   `name` varchar(300) NOT NULL,
   `email` varchar(100) NOT NULL,
-  `message` varchar(5000) NOT NULL
+  `message` varchar(500000) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --

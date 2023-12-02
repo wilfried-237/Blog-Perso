@@ -21,7 +21,7 @@ if(isset($_POST['publier']) ){
         $image_ext = explode(".", $image_name);
         $image_actual_extention = strtolower(end($image_ext));
 
-        $allowed = ["jpg", "jpeg", "png"];
+        $allowed = ["jpg", "jpeg", "png","avif","webp"];
 
         if(in_array($image_actual_extention, $allowed)){
             if($image_error === 0){
