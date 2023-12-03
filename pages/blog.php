@@ -25,6 +25,7 @@ $posts = blogPagination($debut,$nbre_element);
 ?>
 
 
+<div class="container">
 <div class="w-100 mx-auto pb-3">
     <h1 class=" pt-3 pb-3">Blog</h1>
 
@@ -74,4 +75,5 @@ $posts = blogPagination($debut,$nbre_element);
         </ul>
     
 
+</div>
 </div>

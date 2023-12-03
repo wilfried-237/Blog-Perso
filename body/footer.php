@@ -4,11 +4,12 @@
             
             <div class="col-ms-12 col-md-12 col-lg-8 mx-auto"> © WILSWEB 2023 Copyright All rights Reserved</div>
             <div class="col-ms-12 col-md-12 col-lg-4 mx-auto">
-            <a class="grey-text text-lighten-4 text-decoration-none" href="#!"><i class="p-1 tiny fa-brands fa-youtube"></i></a>
-            <a class="grey-text text-lighten-4 text-decoration-none" href="#!"><i class="p-1 tiny fa-brands fa-facebook"></i></a>
-            <a class="grey-text text-lighten-4 text-decoration-none" href="#!"><i class="p-1 tiny fa-brands fa-instagram"></i></a>
-            <a class="grey-text text-lighten-4 text-decoration-none" href="#!"><i class="p-1 tiny fa-brands fa-libkedin"></i></a>
-            <a class="grey-text text-lighten-4 text-decoration-none" href="#!"><i class="p-1 tiny fa-brands fa-twitter"></i></a>
+            <a class="grey-text text-lighten-4 text-decoration-none" href="wa.me/237699543424"><i class="p-1 tiny fa-brands fa-youtube"></i></a>
+            <a class="grey-text text-lighten-4 text-decoration-none" href="wa.me/237699543424"><i class="p-1 tiny fa-brands fa-facebook"></i></a>
+            <a class="grey-text text-lighten-4 text-decoration-none" href="wa.me/237699543424"><i class="p-1 tiny fa-brands fa-instagram"></i></a>
+            <a class="grey-text text-lighten-4 text-decoration-none" href="wa.me/237699543424"><i class="tiny fa-brands fa-twitter"></i></a>
+            <a class="grey-text text-lighten-4 text-decoration-none" href="wa.me/237699543424"><i class="tiny fa-brands fa-whatsapp"></i></a>
+
             
             </div>
             </div>

@@ -5,7 +5,7 @@ include("controller/home.controller.php");
 <div class="slider">
   <ul class="slides">
     <li>
-      <img src="pages/img/cover.png" alt="">
+      <img src="pages/img/Technology_Trends.avif" alt="">
       <div class="caption div" id="index-banner">
         <div class="container">
           <br><br>
@@ -24,31 +24,28 @@ include("controller/home.controller.php");
 </div>
 
 
+<div class="p-5">
 <div class="row">
   <h1 class="center pt-5 pb-5 ">SERVICES</h1>
   <article class="col-sm-6 col-md-6 col-lg-3 d-block center-align">
-    <i class="material-icons  large text-primary">devices</i>
-    <h4 class="">Developement Web</h4>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro nostrum, aliquid nesciunt ipsa vitae fugiat?
-      Soluta dicta ab incidunt ducimus sunt voluptates. Vel cum optio ipsa voluptas beatae aperiam placeat!</p>
+    <i class="material-icons  large text-primary">computer</i>
+    <h4 class="">Conception et développement d'un site web personnalisé</h4>
+    <p>Création d'un site web unique adapté aux besoins de votre entreprise, y compris la conception, la fonctionnalité et le contenu.</p>
   </article>
   <article class="col-sm-6 col-md-6 col-lg-3 d-block center-align">
     <i class="material-icons  darken-4 large text-primary">search</i>
-    <h4 class="">Optimisation SEO</h4>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro nostrum, aliquid nesciunt ipsa vitae fugiat?
-      Soluta dicta ab incidunt ducimus sunt voluptates. Vel cum optio ipsa voluptas beatae aperiam placeat!</p>
+    <h4 class="">Optimisation du référencement (SEO)</h4>
+    <p>Amélioration de la visibilité de votre site web sur les moteurs de recherche tels que Google, en optimisant le contenu, la structure et les éléments techniques pour augmenter le trafic organique et les classements.</p>
+  </article>
+  <article class="col-sm-6 col-md-6 col-lg-3 d-block center-align">
+    <i class="material-icons  darken-4 large text-primary">devices</i>
+    <h4 class="">Design mobile responsive</h4>
+    <p>Assurance que votre site web ait un excellent aspect visuel et fonctionne sans problème sur tous les appareils, y compris les ordinateurs de bureau, les ordinateurs portables, les tablettes et les smartphones.</p>
   </article>
   <article class="col-sm-6 col-md-6 col-lg-3 d-block center-align">
     <i class="material-icons  darken-4 large text-primary">settings_applications</i>
     <h4 class="">Maintenance de Site Web</h4>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro nostrum, aliquid nesciunt ipsa vitae fugiat?
-      Soluta dicta ab incidunt ducimus sunt voluptates. Vel cum optio ipsa voluptas beatae aperiam placeat!</p>
-  </article>
-  <article class="col-sm-6 col-md-6 col-lg-3 d-block center-align">
-    <i class="material-icons  darken-4 large text-primary">sell</i>
-    <h4 class="">Maintenance de Site Web</h4>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro nostrum, aliquid nesciunt ipsa vitae fugiat?
-      Soluta dicta ab incidunt ducimus sunt voluptates. Vel cum optio ipsa voluptas beatae aperiam placeat!</p>
+    <p>Assurance que votre site web fonctionne correctement, est sécurisé et est à jour, y compris les corrections de bugs, les mises à jour de logiciels, la sauvegarde de données et la résolution de problèmes techniques.</p>
   </article>
 </div>
 
@@ -78,4 +75,5 @@ include("controller/home.controller.php");
       </div>
     </div>
   <?php endforeach; ?>
+</div>
 </div>
